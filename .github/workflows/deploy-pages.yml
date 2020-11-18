@@ -17,4 +17,4 @@ jobs:
       env:
         PAGES_BRANCH: gh-pages
         # Provide personal access token
-        TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        TOKEN: ${{ secrets.TOKEN }}
