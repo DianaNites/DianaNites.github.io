@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://diananites.github.io/sitemap.xml
